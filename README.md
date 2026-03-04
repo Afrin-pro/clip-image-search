@@ -21,6 +21,28 @@ Users can search images either by uploading an image or by entering a text descr
 
 ---
 
+## 📸 Project Screenshots
+
+### 🔎 Image Search
+
+![Image Search 1](screenshots/image search1.png)
+![Image Search 2](screenshots/image search2.png)
+![Image Search 3](screenshots/image search3.png)
+![Image Search 4](screenshots/image search4.png)
+![Image Search 5](screenshots/image search5.png)
+
+---
+
+### 📝 Text Search
+
+![Text Search 1](screenshots/text search1.png)
+![Text Search 2](screenshots/text search2.png)
+![Text Search 3](screenshots/text search3.png)
+![Text Search 4](screenshots/text search4.png)
+![Text Search 5](screenshots/text search5.png)
+
+---
+
 ##  Dataset
 - **Caltech-256**
 
@@ -47,5 +69,6 @@ python extract_features.py
 ```bash
 streamlit run app.py
 ```
+
 
 
