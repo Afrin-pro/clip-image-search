@@ -1,0 +1,5 @@
+# Ignore generated files
+image_index.faiss
+image_paths.npy
+__pycache__/
+*.pyc
