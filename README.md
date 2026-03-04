@@ -21,9 +21,9 @@ Users can search images either by uploading an image or by entering a text descr
 
 ---
 
-## 📸 Project Screenshots
+##  Project Screenshots
 
-### 🔎 Image Search
+###  Image Search
 
 - ![Image Search 1](screenshots/image search1.png)
 - ![Image Search 2](screenshots/image search2.png)
@@ -33,7 +33,7 @@ Users can search images either by uploading an image or by entering a text descr
 
 ---
 
-### 📝 Text Search
+###  Text Search
 
 - ![Text Search 1](screenshots/text search1.png)
 - ![Text Search 2](screenshots/text search2.png)
@@ -69,6 +69,7 @@ python extract_features.py
 ```bash
 streamlit run app.py
 ```
+
 
 
 
